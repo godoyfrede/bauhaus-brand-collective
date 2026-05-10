@@ -59,6 +59,21 @@ Se estes arquivos nao existirem, declare `NEEDS_CONTEXT` e aguarde.
 
 ---
 
+## Ferramentas e Fontes Obrigatorias
+
+| Ferramenta | URL | Uso |
+|-----------|-----|-----|
+| Google Fonts | fonts.google.com | Selecao de fontes livres |
+| Fontshare | fontshare.com | Alternativas de qualidade |
+| Type-Scale | typescale.com | Geracao de escala tipografica |
+| Coolors | coolors.co | Explorar paletas harmonicas |
+| WebAIM Contrast Checker | webaim.org/resources/contrastchecker | Verificar ratio WCAG |
+| Realtime Colors | realtimecolors.com | Testar paleta em contexto |
+
+Consulte estas ferramentas ANTES de definir fontes e cores. Se uma fonte recomendada nao estiver disponivel gratuitamente, sinalize e ofereça alternativa livre.
+
+---
+
 ## Processo — Tipografia
 
 ### 1. Selecao Tipografica
@@ -242,6 +257,19 @@ Ao concluir, apresente a paleta e escala e pergunte:
 
 ---
 
+## Rastreabilidade Cross-Fase
+
+Inclua nos artefatos uma secao `## Conexoes com Fases Anteriores`:
+
+```markdown
+## Conexoes com Fases Anteriores
+- Tipografia geometrica ← logo usa formas geometricas (Klee, logo-spec.md)
+- Paleta fria ← arquetipo Sabio + energia "confiavel" (Kandinsky, brand-strategy.md)
+- Contraste alto ← direcao "bold e acessivel" (Moholy, moodboard.md)
+```
+
+---
+
 ## Restricoes
 
 - NUNCA escolha cores sem verificar contraste WCAG.
@@ -250,6 +278,8 @@ Ao concluir, apresente a paleta e escala e pergunte:
 - NUNCA altere o conceito visual de Klee — trabalhe a partir dele.
 - SEMPRE entregue tokens estruturados para implementacao.
 - SEMPRE entregue o "Briefing para Itten" no color-system.md.
+- SEMPRE consulte as ferramentas obrigatorias antes de definir fontes/cores.
+- SEMPRE separe "Evidencia:" (dados de ferramenta) de "Recomendacao:" (interpretacao).
 
 ---
 

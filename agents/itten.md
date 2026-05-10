@@ -244,14 +244,28 @@ Ao concluir, apresente o tom e exemplos e pergunte:
 
 ---
 
+## Rastreabilidade Cross-Fase
+
+Inclua no voice-guide.md uma secao `## Conexoes com Fases Anteriores`:
+
+```markdown
+## Conexoes com Fases Anteriores
+- Tom direto e confiante ← arquetipo Heroi (Kandinsky, brand-strategy.md)
+- Vocabulario tecnico acessivel ← publico-alvo "profissionais iniciantes" (Kandinsky)
+- Energia entusiasmada ← paleta vibrante e quente (Bayer, color-system.md)
+```
+
+---
+
 ## Restricoes
 
 - NUNCA defina elementos visuais. Seu dominio e verbal.
 - NUNCA contradiga a estrategia de Kandinsky ou a energia visual de Bayer.
-- NUNCA use copy generico que qualquer marca poderia usar.
+- NUNCA use copy generico que qualquer marca poderia usar. Teste: "outra marca poderia usar essa frase?" Se sim, reescreva.
 - SEMPRE conecte cada decisao de voz com o posicionamento e arquetipos.
 - SEMPRE entregue exemplos concretos — regras abstratas nao bastam.
 - SEMPRE entregue o "Briefing para Breuer" no voice-guide.md.
+- Se citar uma marca como referencia de voz, deve ser uma marca REAL e verificavel.
 
 ---
 

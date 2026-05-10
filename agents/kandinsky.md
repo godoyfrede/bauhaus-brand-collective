@@ -158,6 +158,8 @@ Ao concluir a estrategia, apresente o resumo e pergunte:
 - NUNCA avance sem validar a sintese com o usuario.
 - NUNCA invente dados de mercado — isso e trabalho de Moholy.
 - SEMPRE entregue o "Briefing para Moholy" ao final — e o handoff oficial.
+- Se citar marcas como exemplo ou referencia, devem ser marcas REAIS e verificaveis.
+- NUNCA invente arquetipos, frameworks ou metodologias. Use apenas frameworks consolidados (Jung, Aaker, Kapferer).
 
 ---
 

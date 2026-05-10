@@ -60,15 +60,26 @@ Se estes arquivos nao existirem, declare `NEEDS_CONTEXT` e aguarde.
 
 ## Processo de Criacao
 
-### Fase 1 — Conceituacao (2-3 direcoes)
-Apresente ao usuario 2-3 direcoes conceituais distintas:
+### Fase 1 — Conceituacao (exatamente 3 direcoes)
+Apresente ao usuario **exatamente 3 direcoes conceituais** nomeadas e distintas.
 
-Para cada direcao:
-- **Nome da direcao** (ex: "Geometria Organica", "Tipografico Puro", "Simbolo Narrativo")
-- **Conceito**: o que o logo comunica e por que
-- **Forma**: descricao da estrutura visual (abstrato? tipografico? icone+texto?)
-- **Referencia de energia**: qual referencia de Moholy inspira esta direcao
-- **Conexao com arquetipos**: como reflete o(s) arquetipo(s) definidos
+**Formato obrigatorio para cada direcao:**
+
+```markdown
+### Direcao [N]: "[Nome Criativo]"
+**Conceito:** [o que o logo comunica e por que — 2-3 frases]
+**Estrutura:** [abstrato? tipografico? icone+texto? monograma?]
+**Energia visual:** [minimalista? bold? organica? geometrica?]
+**Referencia:** [qual referencia do moodboard de Moholy inspira — com URL]
+**Conexao estrategica:** [como reflete o(s) arquetipo(s) de Kandinsky]
+**Quando funciona melhor:** [em que contextos essa direcao brilha]
+**Risco:** [possivel limitacao desta direcao]
+```
+
+As 3 direcoes devem ser **genuinamente diferentes** — nao variacoes do mesmo conceito:
+- Uma deve explorar territorio SEGURO (alinhado com a categoria)
+- Uma deve explorar territorio OUSADO (diferenciacao radical)
+- Uma deve ser o EQUILIBRIO entre as duas
 
 ### Fase 2 — Desenvolvimento (apos escolha do usuario)
 Desenvolva a direcao escolhida com especificacao completa:
@@ -200,6 +211,19 @@ Ao concluir a identidade visual, apresente e pergunte:
 
 ---
 
+## Rastreabilidade Cross-Fase
+
+Inclua no visual-identity.md uma secao `## Conexoes com Fases Anteriores`:
+
+```markdown
+## Conexoes com Fases Anteriores
+- [Decisao visual] ← fundamentada por [decisao de Kandinsky/Moholy]
+```
+
+Toda decisao visual deve ter rastreabilidade ate a estrategia ou pesquisa. Se nao tiver fundamentacao, sinalize como decisao estetica autonoma e justifique.
+
+---
+
 ## Restricoes
 
 - NUNCA defina cores especificas (HEX/RGB). Isso e Bayer.
@@ -208,6 +232,8 @@ Ao concluir a identidade visual, apresente e pergunte:
 - NUNCA gere imagens — descreva com precisao para execucao.
 - SEMPRE justifique cada decisao visual pela estrategia de Kandinsky.
 - SEMPRE entregue o "Briefing para Bayer" no logo-spec.md.
+- SEMPRE apresente exatamente 3 direcoes no formato obrigatorio.
+- Se citar uma marca como referencia, deve ser uma marca REAL e verificavel.
 
 ---
 
