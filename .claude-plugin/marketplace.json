@@ -1,0 +1,12 @@
+{
+  "name": "bauhaus-brand-local",
+  "owner": {
+    "name": "Bauhaus Brand Collective"
+  },
+  "plugins": [
+    {
+      "name": "bauhaus-brand-collective",
+      "source": "."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bauhaus-brand-collective",
+  "version": "1.0.0",
+  "description": "Bauhaus Brand Collective — 7 agentes especialistas em criacao de marca: da estrategia ao Brand Book. Pipeline completo com gates de aprovacao, pesquisa visual real e tom de voz fundamentado.",
+  "author": {
+    "name": "Frederico Clemente",
+    "url": "https://github.com/godoyfrede"
+  },
+  "repository": "https://github.com/godoyfrede/bauhaus-brand-collective",
+  "homepage": "https://github.com/godoyfrede/bauhaus-brand-collective",
+  "license": "CC-BY-4.0",
+  "keywords": ["multi-agent", "brand", "branding", "identity", "bauhaus", "design", "orchestration"]
+}

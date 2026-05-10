@@ -1,0 +1,8 @@
+{
+  "name": "bauhaus-brand-collective",
+  "version": "1.0.0",
+  "description": "Bauhaus Brand Collective — Pipeline multi-agente para criacao de marca completa",
+  "type": "module",
+  "keywords": ["claude-plugin", "multi-agent", "bauhaus", "brand", "identity", "design-system"],
+  "license": "MIT"
+}
