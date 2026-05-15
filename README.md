@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/cover.png" alt="Bauhaus Brand Collective" width="600">
+</p>
+
 # Bauhaus Brand Collective
 
 > 7 agentes Bauhaus especializados em criacao de marca: da estrategia ao Brand Book.
